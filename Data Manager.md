@@ -104,5 +104,5 @@ Data manager is available via API and CLI
 
 # Contributers
 - Mohammad Parsian
+- Soroush Mahdi
 - Danial Keimasi
-- Moein Samadi
