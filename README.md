@@ -56,9 +56,9 @@ These following concepts are the building blocks of whoknows platform.
 > Each question gets generated from a template. Question template contains specifications about how a quesiton should be generated and what are it's fields.
 
 ### [Dataset](https://github.com/online6731/whoknows/blob/master/Dataset.md)
-Dataset is a set of collected data with the same type. Datasets prepare data for generating questions from question templates.
+> Dataset is a set of collected data with the same type. Datasets prepare data for generating questions from question templates.
 
 ### [Dataset Template](https://github.com/online6731/whoknows/blob/master/Dataset%20Template.md)
-Each dataset gets generated from a dataset template. Dataset template contains specifications about how a dataset should be generated and what are it's fields and conditions.
+> Each dataset gets generated from a dataset template. Dataset template contains specifications about how a dataset should be generated and what are it's fields and conditions.
 
 
