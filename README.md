@@ -1,10 +1,10 @@
 # Whoknows
-Whoknows is an online platform for multiplayer question based contests.
+Whoknows is an online platform for multiplayer question based contests. It's a multipurpose app which can be used as a great learning tool for most topics and also can be played as a fun and entertaining game. It's gonna be availabe on android, iOS and web.
 
 <br>
 
 # How to install?
-Whoknows is available in most platforms.
+Whoknows is available on most platforms.
 
 ### Android
 Download the app from www.whoknows.ir/download/android
@@ -36,46 +36,29 @@ Open the app and follow these steps:
 > After each contest, contestants will be rewarded based on that contest's rewarding rules. Rewards can be coin, score, money and ...
 
 ### 6. Smile
-> Be happy and smile :)
+> Be Kind and smile :)
 
 <br>
 
 ## What are the main concepts?
 These following concepts are the building blocks of whoknows platform.
 
-### Contest
-> Contest is a set of questions which can be answered untill the end of contest. There are multiple types of contests with different rules and conditions. [Read more ...]( )
+### [Contest](https://github.com/online6731/whoknows/blob/master/Contest.md)
+> Contest is a set of questions which can be answered untill the end of contest. There are multiple types of contests with different rules and conditions.
 
+### [Contest Template](https://github.com/online6731/whoknows/blob/master/Contest%20Template.md)
+> Each contest gets generated from a template. Contest template contains specifications about how a contest should be held.
 
-### Contest Template
-> Each contest gets generated from a template. Contest Template contains specifications about how a contest should be held. [Read more ...]( )
+### [Question](https://github.com/online6731/whoknows/blob/master/Question.md)
+> Question is the main element of a contest. Each question has a title, answer and some other parts based on it's type.
 
-### Question
-> Question is the main element of a contest. Each question has a title, answer and some other parts based on it's type. [Read more ...]( )
+### [Question Template](https://github.com/online6731/whoknows/blob/master/Question%20Template.md)
+> Each question gets generated from a template. Question template contains specifications about how a quesiton should be generated and what are it's fields.
 
+### [Dataset](https://github.com/online6731/whoknows/blob/master/Dataset.md)
+Dataset is a set of collected data with the same type. Datasets prepare data for generating questions from question templates.
 
-### Question Template
-[Read more ...]( )
+### [Dataset Template](https://github.com/online6731/whoknows/blob/master/Dataset%20Template.md)
+Each dataset gets generated from a dataset template. Dataset template contains specifications about how a dataset should be generated and what are it's fields and conditions.
 
-### Dataset
-Dataset is a set of collected data with the same type. Datasets prepare data for generating questions from question templates. [Read more ...]( )
-
-### Dataset Template
-[Read more ...]( )
-
-----
-----
-
-
-
-Types of contests are:
-- Tournament
-- Educational
-- Talent show
-- Fun
-- One by one
-- Group
-- League
-- Bet
-- Step by step
 
