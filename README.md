@@ -62,3 +62,97 @@ These following concepts are the building blocks of whoknows platform.
 > Each dataset gets generated from a dataset template. Dataset template contains specifications about how a dataset should be generated and what are it's fields and conditions.
 
 
+## How is the Progress?
+
+#### Version : Demo
+#### Release : 1/5/1398
+#### Options : ...
+
+<table>
+  <tr>
+    <th> Project </th>
+    <th> Status </th>
+    <th> Priority </th>
+    <th> Progress </th>
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/online6731/whoknows-intro-web"> Introduction site </a> </td>
+    <td> NOT STARTED </td>
+    <td> MEDUIM </td>
+    <td> 0% </td>
+    
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/online6731/whoknows-web"> Web app </a> </td>
+    <td> SUSPENDED </td>
+    <td> MEDIUM </td>
+    <td> 20% </td>
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/online6731/whoknows"> Documentation </a> </td>
+    <td> IN PROGRESS </td>
+    <td> HIGH </td>
+    <td> 30% </td>
+  </tr>
+   
+  <tr>
+    <td> <a href="www.github.com/online6731/whoknwos-server"> Main server </a> </td>
+    <td> IN PROGRESS </td>
+    <td> HIGH </td>
+    <td> 80% </td>
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/danialkeimasi/whoknows-template-manager"> Template manager server </a> </td>
+    <td> IN PROGRESS </td>
+    <td> HIGH </td>
+    <td> 80% </td>
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/soroush-mim/whoknows-data-manager"> Data manager server </a> </td>
+    <td> SUSPENDED </td>
+    <td> HIGH </td>
+    <td> 50% </td>
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/online6731/whoknows-template-manager-ui"> Template manager web app </a> </td>
+    <td> IN PROGRESS </td>
+    <td> LOW </td>
+    <td> 35% </td>
+  </tr>
+  
+  <tr>
+    <td> <a href=""> Data manager web app </a> </td>
+    <td> NOT STARTED </td>
+    <td> LOW </td>
+    <td> 0% </td>
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/efi77/guessit-design"> Design </a> </td>
+    <td> IN PROGRESS </td>
+    <td> HIGH </td>
+    <td> 70% </td>
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/farhansn/guessit-flutter"> Flutter app </a> </td>
+    <td> IN PROGRESS </td>
+    <td> HIGH </td>
+    <td> 70% </td>
+  </tr>
+  
+  <tr>
+    <td> <a href="www.github.com/danialkeimasi/whoknows-cli"> Template manager CLI </a> </td>
+    <td> IN PROGRESS </td>
+    <td> MEDUIM </td>
+    <td> 90% </td>
+  </tr>
+
+</table>
+
