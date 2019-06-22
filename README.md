@@ -66,7 +66,9 @@ These following concepts are the building blocks of whoknows platform.
 
 #### Version : Demo
 #### Release : 1/5/1398
-#### Options : ...
+#### Options : signup, login, interests, my profile, user's profile, contest list, contest view, contest play, contest result
+
+### <a href="https://github.com/online6731/whoknows/blob/master/Projects.md"> List of projects : </a>
 
 <table>
   <tr>
