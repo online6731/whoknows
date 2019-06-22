@@ -35,8 +35,8 @@ Open the app and follow these steps:
 ### 5. Get your reward
 > After each contest, contestants will be rewarded based on that contest's rewarding rules. Rewards can be coin, score, money and ...
 
-### 6. Smile
-> Be Kind and smile :)
+### 6. Be Kind :)
+> Be Kind and smile ...
 
 <br>
 
