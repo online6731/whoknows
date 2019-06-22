@@ -1,7 +1,7 @@
 List of projects:
 
 <table>
-  <tr>
+  <tr>...
     <th> Name </th>
     <th> Domain </th>
     <th> Maintainer </th>
@@ -85,7 +85,7 @@ List of projects:
   
   <tr>
     <td> <a href="www.github.com/efi77/guessit-design"> Design </a> </td>
-    <td> ... </td>
+    <td>  </td>
     <td> <a href="www.github.com/efi77"> erfan </a> </td>
     <td> HIGH </td>
     <td> IN PROGRESS </td>
@@ -94,7 +94,7 @@ List of projects:
   
   <tr>
     <td> <a href="www.github.com/farhansn/guessit-flutter"> Flutter app </a> </td>
-    <td> ... </td>
+    <td> </td>
     <td> <a href="www.github.com/farhansn"> farhan </a> </td>
     <td> HIGH </td>
     <td> IN PROGRESS </td>
