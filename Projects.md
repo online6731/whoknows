@@ -1,7 +1,5 @@
-List of projects:
-
 <table>
-  <tr>...
+  <tr>
     <th> Name </th>
     <th> Domain </th>
     <th> Maintainer </th>
