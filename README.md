@@ -101,7 +101,7 @@ These following concepts are the building blocks of whoknows platform.
   </tr>
    
   <tr>
-    <td> <a href="https://www.github.com/online6731/whoknwos-server"> Main server </a> </td>
+    <td> <a href="https://www.github.com/online6731/whoknows-server"> Main server </a> </td>
     <td> IN PROGRESS </td>
     <td> HIGH </td>
     <td> 80% </td>
