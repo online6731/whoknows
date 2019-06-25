@@ -7,10 +7,10 @@ Whoknows is an online platform for multiplayer question based contests. It's a m
 Whoknows is available on most platforms.
 
 ### Android
-Download the app from [whoknows.ir/download/android](https://whoknows.ir/download/android)
+Download the app from [whoknows.ir/download/android](http://whoknows.ir/download/android)
 
 ### iOS
-Download the app from [whoknows.ir/download/ios](https://whoknows.ir/download/ios)
+Download the app from [whoknows.ir/download/ios](http://whoknows.ir/download/ios)
 
 ### Web
 Play online at [web.whoknows.ir](https://web.whoknows.ir)
@@ -79,7 +79,7 @@ These following concepts are the building blocks of whoknows platform.
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/online6731/whoknows-intro-web"> Introduction site </a> </td>
+    <td> <a href="https://github.com/online6731/whoknows-intro-web"> Introduction site </a> </td>
     <td> NOT STARTED </td>
     <td> MEDUIM </td>
     <td> 0% </td>
@@ -87,42 +87,42 @@ These following concepts are the building blocks of whoknows platform.
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/online6731/whoknows-web"> Web app </a> </td>
+    <td> <a href="https://github.com/online6731/whoknows-web"> Web app </a> </td>
     <td> SUSPENDED </td>
     <td> MEDIUM </td>
     <td> 20% </td>
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/online6731/whoknows"> Documentation </a> </td>
+    <td> <a href="https://github.com/online6731/whoknows"> Documentation </a> </td>
     <td> IN PROGRESS </td>
     <td> HIGH </td>
     <td> 30% </td>
   </tr>
    
   <tr>
-    <td> <a href="https://www.github.com/online6731/whoknows-server"> Main server </a> </td>
+    <td> <a href="https://github.com/online6731/whoknows-server"> Main server </a> </td>
     <td> IN PROGRESS </td>
     <td> HIGH </td>
     <td> 80% </td>
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/danialkeimasi/whoknows-template-manager"> Template manager server </a> </td>
+    <td> <a href="https://github.com/danialkeimasi/whoknows-template-manager"> Template manager server </a> </td>
     <td> IN PROGRESS </td>
     <td> HIGH </td>
     <td> 80% </td>
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/soroush-mim/whoknows-data-manager"> Data manager server </a> </td>
+    <td> <a href="https://github.com/soroush-mim/whoknows-data-manager"> Data manager server </a> </td>
     <td> SUSPENDED </td>
     <td> HIGH </td>
     <td> 50% </td>
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/online6731/whoknows-template-manager-ui"> Template manager web app </a> </td>
+    <td> <a href="https://github.com/online6731/whoknows-template-manager-ui"> Template manager web app </a> </td>
     <td> IN PROGRESS </td>
     <td> LOW </td>
     <td> 35% </td>
@@ -136,21 +136,21 @@ These following concepts are the building blocks of whoknows platform.
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/efi77/guessit-design"> Design </a> </td>
+    <td> <a href="https://github.com/efi77/guessit-design"> Design </a> </td>
     <td> IN PROGRESS </td>
     <td> HIGH </td>
     <td> 70% </td>
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/farhansn/guessit-flutter"> Flutter app </a> </td>
+    <td> <a href="https://github.com/farhansn/guessit-flutter"> Flutter app </a> </td>
     <td> IN PROGRESS </td>
     <td> HIGH </td>
     <td> 70% </td>
   </tr>
   
   <tr>
-    <td> <a href="https://www.github.com/danialkeimasi/whoknows-cli"> Template manager CLI </a> </td>
+    <td> <a href="https://github.com/danialkeimasi/whoknows-cli"> Template manager CLI </a> </td>
     <td> IN PROGRESS </td>
     <td> MEDUIM </td>
     <td> 90% </td>
