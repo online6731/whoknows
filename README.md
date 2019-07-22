@@ -1,5 +1,5 @@
 # Whoknows
-Whoknows is an online platform for multiplayer question based contests. It's a multipurpose app which can be used as a great learning tool for most topics and also can be played as a fun and entertaining game. It's gonna be availabe on android, iOS and web.
+Whoknows is an online platform for multiplayer question based contests. It's a multipurpose app which can be used as a great learning tool for most topics and also can be played as a fun and entertaining game. It's gonna be available on android, iOS and web.
 
 <br>
 
@@ -18,10 +18,10 @@ Play online at [web.whoknows.ir](https://web.whoknows.ir)
 <br>
 
 # How to play?
-Open the app and follow these steps:
+Open the app and folLow these steps:
 
-### 1. signup:
-> People can sign up as eather member or guest. Signing up as guest is just for the purpose of testing game. Guests are not allowed to play in most contests and their scores and achievements will be lost after signing up as a member.
+### 1. sign-up:
+> People can sign up as either member or guest. Signing up as guest is just for the purpose of testing game. Guests are not alLowed to play in most contests and their scores and achievements will be lost after signing up as a member.
 
 ### 2. pick your interests
 > Every user should pick some tags as her/his interests so more desired contests shows up in the list of contests.
@@ -30,7 +30,7 @@ Open the app and follow these steps:
 > There is a contest list in main page which shows all the available contests. Users may join any contest and play when it starts.
 
 ### 4. play
-> Each contest is a set of questions which can be answered untill the end of contest. Score of each question will be calculated based on the accuracy of given answer and submit time.
+> Each contest is a set of questions which can be answered until the end of contest. Score of each question will be calculated based on the accuracy of given answer and submit time.
 
 ### 5. Get your reward
 > After each contest, contestants will be rewarded based on that contest's rewarding rules. Rewards can be coin, score, money and ...
@@ -41,10 +41,10 @@ Open the app and follow these steps:
 <br>
 
 ## What are the main concepts?
-These following concepts are the building blocks of whoknows platform.
+These folLowing concepts are the building blocks of whoknows platform.
 
 ### [Contest](https://github.com/online6731/whoknows/blob/master/Contest.md)
-> Contest is a set of questions which can be answered untill the end of contest. There are multiple types of contests with different rules and conditions.
+> Contest is a set of questions which can be answered until the end of contest. There are multiple types of contests with different rules and conditions.
 
 ### [Contest Template](https://github.com/online6731/whoknows/blob/master/Contest%20Template.md)
 > Each contest gets generated from a template. Contest template contains specifications about how a contest should be held.
@@ -53,7 +53,7 @@ These following concepts are the building blocks of whoknows platform.
 > Question is the main element of a contest. Each question has a title, answer and some other parts based on it's type.
 
 ### [Question Template](https://github.com/online6731/whoknows/blob/master/Question%20Template.md)
-> Each question gets generated from a template. Question template contains specifications about how a quesiton should be generated and what are it's fields.
+> Each question gets generated from a template. Question template contains specifications about how a question should be generated and what are it's fields.
 
 ### [Dataset](https://github.com/online6731/whoknows/blob/master/Dataset.md)
 > Dataset is a set of collected data with the same type. Datasets prepare data for generating questions from question templates.
@@ -65,36 +65,39 @@ These following concepts are the building blocks of whoknows platform.
 ## How is the Progress?
 
 #### Version : Demo
-#### Release : 1/5/1398
-#### Options : signup, login, interests, my profile, user's profile, contest list, contest view, contest play, contest result
+#### Release : 10/5/1398 (10 days delay)
+#### Options : sign-up, login, interests, my profile, user's profile, contest list, contest view, contest play, contest result
 
-### <a href="https://github.com/online6731/whoknows/blob/master/Projects.md"> List of projects : </a>
+### <a> List of projects : </a>
 
-<table>
+<table style="text-align: center">
   <tr>
     <th> Name </th>
     <th> Domain </th>
     <th> Maintainer </th>
+    <th> Technology </th>
     <th> Priority </th>
     <th> Status </th>
-    <th> Progress for Demo </th>
+    <th> Progress </th>
   </tr>
 
   <tr>
     <td> <a href="https://github.com/online6731/whoknows-intro-web"> Introduction site </a> </td>
     <td> <a href="http://whoknows.ir"> whoknows.ir </a> </td>
     <td> Farhad </td>
-    <td> MEDUIM </td>
-    <td> IN PROGRESS </td>
-    <td> 10% </td>
+    <td> Angular </td>
+    <td> Medium </td>
+    <td> Medium Progress </td>
+    <td> 20% </td>
   </tr>
 
   <tr>
-    <td> <a href="https://github.com/online6731/whoknows-web"> Web app </a> </td>
+    <td> <a href="https://github.com/online6731/whoknows-web"> Whoknows web app </a> </td>
     <td> <a href="http://web.whoknows.ir"> web.whoknows.ir </a> </td>
     <td> <a href="https://github.com/online6731"> Mohammad </a> </td>
-    <td> MEDIUM </td>
-    <td> SUSPENDED </td>
+    <td> Angular </td>
+    <td> Medium </td>
+    <td> Suspended </td>
     <td> 20% </td>
   </tr>
 
@@ -102,80 +105,85 @@ These following concepts are the building blocks of whoknows platform.
     <td> <a href="https://github.com/online6731/whoknows"> Documentation </a> </td>
     <td> <a href="http://docs.whoknows.ir"> docs.whoknows.ir </a> </td>
     <td> <a href="https://github.com/online6731"> Mohammad </a> </td>
-    <td> HIGH </td>
-    <td> IN PROGRESS </td>
-    <td> 40% </td>
+    <td> Github </td>
+    <td> High </td>
+    <td> Slow Progress </td>
+    <td> 50% </td>
   </tr>
 
   <tr>
-    <td> <a href="https://github.com/online6731/whoknwos-server"> Main server </a> </td>
+    <td> <a href="https://github.com/online6731/whoknows-server"> Main server </a> </td>
     <td> <a href="http://server.whoknows.ir"> server.whoknows.ir </a> </td>
     <td> <a href="https://github.com/online6731"> Mohammad </a> </td>
-    <td> HIGH </td>
-    <td> IN PROGRESS </td>
+    <td> Node.js </td>
+    <td> High </td>
+    <td> Slow Progress </td>
     <td> 80% </td>
   </tr>
 
   <tr>
-    <td> <a href="https://github.com/danialkeimasi/whoknows-template-manager"> Template manager server </a> </td>
+    <td> <a href="https://github.com/danialkeimasi/whoknows-template-manager"> Template Manager server </a> </td>
     <td> <a href="http://tms.whoknows.ir"> tms.whoknows.ir </a> </td>
     <td> <a href="https://github.com/danialkeimasi"> Danial </a> </td>
-    <td> HIGH </td>
-    <td> IN PROGRESS </td>
+    <td> Python </td>
+    <td> High </td>
+    <td> Fast Progress </td>
+    <td> 85% </td>
+  </tr>
+
+  <tr>
+    <td> <a href="https://github.com/online6731/whoknows-data-manager"> Data Manager server </a> </td>
+    <td> <a href="http://dms.whoknows.ir"> dms.whoknows.ir </a> </td>
+    <td> <a href="https://github.com/online6731"> Mohammad </a> </td>
+    <td> Python </td>
+    <td> High </td>
+    <td> Fast Progress </td>
     <td> 80% </td>
   </tr>
 
   <tr>
-    <td> <a href="https://github.com/soroush-mim/whoknows-data-manager"> Data manager server </a> </td>
-    <td> <a href="http://dms.whoknows.ir"> dms.whoknows.ir </a> </td>
-    <td> <a href="https://github.com/online6731"> Mohammad </a> </td>
-    <td> HIGH </td>
-    <td> IN PROGRESS </td>
-    <td> 60% </td>
-  </tr>
-
-  <tr>
-    <td> <a href="https://github.com/online6731/whoknows-template-manager-ui"> Template manager web app </a> </td>
-    <td> <a href="http://tms.whoknows.ir"> tm.whoknows.ir </a> </td>
-    <td> <a href="https://github.com/online6731"> Mohammad </a> </td>
-    <td> LOW </td>
-    <td> SUSPENDED </td>
-    <td> 35% </td>
-  </tr>
-
-  <tr>
-    <td> <a href=""> Data manager web app </a> </td>
+    <td> <a href=""> Control Panel web app </a> </td>
     <td> <a href="http://dm.whoknows.ir"> dm.whoknows.ir </a> </td>
     <td> <a href="https://github.com/online6731"> Mohammad </a> </td>
-    <td> LOW </td>
-    <td> IN PROGRESS </td>
-    <td> 30% </td>
+    <td> Angular </td>
+    <td> Low </td>
+    <td> Fast Progress </td>
+    <td> 40% </td>
   </tr>
 
   <tr>
     <td> <a href="https://github.com/efi77/guessit-design"> Design </a> </td>
     <td>  </td>
     <td> <a href="https://github.com/efi77"> Erfan </a> </td>
-    <td> HIGH </td>
-    <td> IN PROGRESS </td>
+    <td> Illustrator </td>
+    <td> High </td>
+    <td> Medium Progress </td>
     <td> 80% </td>
   </tr>
 
   <tr>
-    <td> <a href="https://github.com/farhansn/guessit-flutter"> Flutter app </a> </td>
-    <td> </td>
-    <td> <a href="https://github.com/farhansn"> Farhan </a> , <a href="https://github.com/javadmokhtari"> Javad </a> </td>
-    <td> HIGH </td>
-    <td> IN PROGRESS </td>
+    <td> <a href="https://github.com/farhansn/guessit-flutter"> Mobile app </a> </td>
+    <td>
+      <a href="http://whoknows.ir/android"> whoknows.ir/android </a> ,
+      <a href="http://whoknows.ir/ios"> whoknows.ir/ios </a>
+    </td>
+    <td>
+      <a href="https://github.com/farhansn"> Farhan </a> ,
+      <a href="https://github.com/javadmokhtari"> Javad </a>
+    </td>
+    <td> Flutter </td>
+    <td> High </td>
+    <td> Fast Progress </td>
     <td> 80% </td>
   </tr>
 
   <tr>
-    <td> <a href="https://github.com/danialkeimasi/whoknows-cli"> Template manager CLI </a> </td>
+    <td> <a href="https://github.com/danialkeimasi/whoknows-cli"> Template Manager CLI </a> </td>
     <td>  </td>
     <td> <a href="https://github.com/danialkeimasi"> Danial </a> </td>
-    <td> MEDUIM </td>
-    <td> SUSPENDED </td>
+    <td> Python </td>
+    <td> Medium </td>
+    <td> Suspended </td>
     <td> 90% </td>
   </tr>
 
