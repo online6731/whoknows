@@ -68,9 +68,9 @@ These folLowing concepts are the building blocks of whoknows platform.
 #### Release : 10/5/1398 (10 days delay)
 #### Options : sign-up, login, interests, my profile, user's profile, contest list, contest view, contest play, contest result
 
-### <a> List of projects : </a>
+### List of projects :
 
-<table style="text-align: center">
+<table>
   <tr>
     <th> Name </th>
     <th> Domain </th>
