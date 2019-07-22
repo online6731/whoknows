@@ -84,7 +84,7 @@ These folLowing concepts are the building blocks of whoknows platform.
   <tr>
     <td> <a href="https://github.com/online6731/whoknows-intro-web"> Introduction site </a> </td>
     <td> <a href="http://whoknows.ir"> whoknows.ir </a> </td>
-    <td> Farhad </td>
+    <td> <a href="https://github.com/farhadPO"> Farhad </a> </td>
     <td> Angular </td>
     <td> Medium </td>
     <td> Medium Progress </td>
